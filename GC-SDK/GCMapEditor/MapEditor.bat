@@ -1,0 +1,1 @@
+javaw -jar GCMapDesigner-1.1.jar
